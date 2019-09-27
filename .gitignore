@@ -1,0 +1,11 @@
+### Eclipse
+**/.classpath
+**/.settings
+**/.project
+**/.externalToolBuilders
+
+### Aion
+target/
+build/
+*.class
+
